@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="no3gxs" name="3BandEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17"
+              companyName="naliM">
   <MAINGROUP id="bVJA1i" name="3BandEQ">
     <GROUP id="{0282DC20-8574-03BF-F352-9C46DD91A3B1}" name="Source">
       <FILE id="eTzQt2" name="PluginProcessor.cpp" compile="1" resource="0"
